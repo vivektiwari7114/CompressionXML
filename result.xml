@@ -1,0 +1,5 @@
+<bookstore>
+   <book test = "1"  id = "bk111" >[x�][x�][x�][x�][x�][x�]
+   </book><book id = "bk112" >
+      <author>Galos, Mike</author>
+    <title>Visual Studio 7: A Comprehensive Guide</title><genre>Computer</genre><price>49.95</price><size> 22 </size><publish_date>2001-04-16</publish_date><last_description test = "1" >[x�]</last_description></book></bookstore>
